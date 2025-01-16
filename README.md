@@ -1,11 +1,15 @@
-## Introduce 👋
+## Bio
+Major : History
 
-#### 이름 : 신성규
-#### 나이 : 1999 년생
-#### 전공 : 사학과
-#### 취미 : 음악감상, 산책, 게임
-#### 좋아하는 음식 : 회, 치킨, 치즈케이크
-#### 반려동물 : 소망이
+Favorites : Cheese cake, Raw
+
+Interest : Web-Backend 
+
+BS in History Mar 2019 - Feb 2025
+
+Pet : Somang
+
+<a href = "https://miso1120.github.io/">Blog</a>
 
 <img src = "img/1000001141.JPG" alt="text" width = "200"/>
 <img src = "img/1000001832.JPG" alt="text" width = "200"/>
